@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bttgcm.github.io/prtfl/portfolio/article/</loc>
+    <loc>/portfolio/article/</loc>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/portfolio/qmra/</loc>
+    <loc>/portfolio/qmra/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/portfolio/sudan/</loc>
+    <loc>/portfolio/sudan/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/portfolio/sls_internship/</loc>
+    <loc>/portfolio/sls_internship/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/design/</loc>
+    <loc>/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url><url>
+    <loc>/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url><url>
+    <loc>/design/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/enveng/</loc>
+    <loc>/enveng/</loc>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/teaching/</loc>
+    <loc>/teaching/</loc>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/management/</loc>
+    <loc>/management/</loc>
   </url><url>
-    <loc>https://bttgcm.github.io/prtfl/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

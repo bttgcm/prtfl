@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GB profile</title>
-    <link>https://bttgcm.github.io/prtfl/</link>
-    <description>Recent content on GB profile</description>
+    <title>Creative portfolio</title>
+    <link>/</link>
+    <description>Recent content on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://bttgcm.github.io/prtfl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Article published on Water Research</title>
-      <link>https://bttgcm.github.io/prtfl/portfolio/article/</link>
+      <link>/portfolio/article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bttgcm.github.io/prtfl/portfolio/article/</guid>
+      <guid>/portfolio/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating scientific frameworks</title>
-      <link>https://bttgcm.github.io/prtfl/portfolio/qmra/</link>
+      <link>/portfolio/qmra/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://bttgcm.github.io/prtfl/portfolio/qmra/</guid>
+      <guid>/portfolio/qmra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A map of violent events in Sudan</title>
-      <link>https://bttgcm.github.io/prtfl/portfolio/sudan/</link>
+      <link>/portfolio/sudan/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://bttgcm.github.io/prtfl/portfolio/sudan/</guid>
+      <guid>/portfolio/sudan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Street Life Studies Internship</title>
-      <link>https://bttgcm.github.io/prtfl/portfolio/sls_internship/</link>
+      <link>/portfolio/sls_internship/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://bttgcm.github.io/prtfl/portfolio/sls_internship/</guid>
+      <guid>/portfolio/sls_internship/</guid>
       <description></description>
     </item>
     
