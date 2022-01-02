@@ -2,43 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/portfolio/article/</loc>
+    <loc>https://bttgcm.github.io/prtfl/portfolio/article/</loc>
   </url><url>
-    <loc>/portfolio/qmra/</loc>
+    <loc>https://bttgcm.github.io/prtfl/portfolio/qmra/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/sudan/</loc>
+    <loc>https://bttgcm.github.io/prtfl/portfolio/sudan/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/sls_internship/</loc>
+    <loc>https://bttgcm.github.io/prtfl/portfolio/sls_internship/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url><url>
-    <loc>/contact2/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url><url>
-    <loc>/design/</loc>
+    <loc>https://bttgcm.github.io/prtfl/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://bttgcm.github.io/prtfl/design/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url><url>
-    <loc>/portfolio/</loc>
+    <loc>https://bttgcm.github.io/prtfl/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://bttgcm.github.io/prtfl/portfolio/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url><url>
-    <loc>/enveng/</loc>
+    <loc>https://bttgcm.github.io/prtfl/categories/</loc>
   </url><url>
-    <loc>/teaching/</loc>
+    <loc>https://bttgcm.github.io/prtfl/enveng/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://bttgcm.github.io/prtfl/management/</loc>
   </url><url>
-    <loc>/management/</loc>
+    <loc>https://bttgcm.github.io/prtfl/tags/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://bttgcm.github.io/prtfl/teaching/</loc>
   </url>
 </urlset>
